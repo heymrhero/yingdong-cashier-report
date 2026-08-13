@@ -1,0 +1,12 @@
+{
+  "name": "yingdong-cashier-report",
+  "version": "1.0.0",
+  "description": "盈动收银系统可视化报表自动生成",
+  "main": "generate_report.js",
+  "scripts": {
+    "start": "node generate_report.js"
+  },
+  "dependencies": {
+    "cos-nodejs-sdk-v5": "^2.14.4"
+  }
+}
